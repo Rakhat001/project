@@ -1,4 +1,4 @@
-﻿"use sctrict"
+﻿"use strict"
 //const result = confirm("Are you here?")
 //console.log(result);
 //const answer = +prompt("Vam est 18?");
@@ -10,7 +10,25 @@
 //document.write(answers);
 
 
-const category = 'toys';
-console.log(`https://someurl.com/${category}/5`);
-const user = 'Ivan';
-alert(`Hello ${user}`);
+//const category = 'toys';
+//console.log(`https://someurl.com/${category}/5`);
+//const user = 'Ivan';
+//alert(`Hello ${user}`);
+
+
+//let incr = 10,
+  //  decr = 10;
+
+//console.log(incr++);
+//console.log(decr--);
+
+
+//const isChecked = true,
+//    isClose = false;
+//console.log(isChecked && !isClose);
+
+
+
+
+
+
